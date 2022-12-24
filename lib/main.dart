@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
                     letterSpacing: 2.5),
               ),
               SizedBox(
-                height: 100,
+                height: 20,
                 width: 150,
                 child: Divider(color: Colors.teal.shade50),
               ),
